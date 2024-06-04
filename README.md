@@ -32,11 +32,11 @@
 
 <h3 align="left">My Stat:</h3>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakunadew99&show_icons=true&locale=en&layout=compact" alt="sakunadew99" />
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakunadew99&show_icons=true&locale=en" alt="sakunadew99" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakunadew99&" alt="sakunadew99" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakunadew99&" alt="sakunadew99" />\
 
-![Stats Card](https://raw.githubusercontent.com/sakunadew99/gitstat/master/generated/languages.svg#gh-dark-mode-only)
-![Stats Card](https://raw.githubusercontent.com/sakunadew99/gitstat/master/generated/languages.svg#gh-light-mode-only)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakunadew99&show_icons=true&locale=en&layout=compact" alt="sakunadew99" />
+
