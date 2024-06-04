@@ -32,8 +32,8 @@
 
 <h3 align="left">My Stat:</h3>
 
-
+<div display="flex">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakunadew99&" alt="sakunadew99" width="120px" height="160px"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakunadew99&show_icons=true&locale=en" alt="sakunadew99" width="120px" height="160px"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakunadew99&show_icons=true&locale=en&layout=compact" alt="sakunadew99" width="120px" height="160px"/>
-
+</div>
